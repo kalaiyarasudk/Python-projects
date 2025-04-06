@@ -45,7 +45,8 @@ Enter your choice
 3.Scissors
 2
 
-You choose --------------- PAPER \n
-Computer choose ----------- ROCK \n
+You choose --------------- PAPER
+
+Computer choose ----------- ROCK 
 
 Player Win!
